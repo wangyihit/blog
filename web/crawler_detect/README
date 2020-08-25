@@ -1,0 +1,2 @@
+detect browser without touch suport
+chrome could support touch with --touch-events=enabled
