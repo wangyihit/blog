@@ -3,3 +3,4 @@
 3. m3u8 add line: #EXT-X-BYTERANGE:1313932@88222
    ts_size@image_size
 4. upload new image file
+5. play m3u8 video with: https://github.com/wangyihit/blog/raw/master/video/m3u8_img/1.m3u8
